@@ -1,1 +1,2 @@
-# git-pro6My 1st Git Repo :)
+# git-pro6
+My 1st Git Repo :)
